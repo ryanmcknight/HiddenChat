@@ -1,0 +1,5 @@
+name: HiddenChat
+main: net.ryanmck.hiddenchat.HiddenChat
+version: 1.1
+description: >
+             Hides chat messages from the console when prefixed with a capital "P".
