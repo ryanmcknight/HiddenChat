@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
   <version>1.1</version>
   <name>HiddenChat</name>
-  <url>http://maven.apache.org</url>
+  <url>http://github.com/ryanmcknight/HiddenChat</url>
   <repositories>
     <repository>
       <id>bukkit-repo</id>
